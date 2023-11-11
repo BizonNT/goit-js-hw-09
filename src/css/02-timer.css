@@ -1,0 +1,30 @@
+.timer {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  font-weight: 600;
+  line-height: 1.1;
+  letter-spacing: 0.03em;
+}
+
+.field {
+  align-items: center;
+  justify-content: center;
+}
+
+.value {
+  margin: 10 15 0;
+  display: flex;
+  flex-direction: column;
+  font-size: 36px;
+}
+
+.points {
+  margin-top: 8px;
+  font-size: 36px;
+  
+}
+
+.label {
+  font-size: 12px;
+}
